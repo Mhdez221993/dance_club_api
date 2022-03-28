@@ -13,6 +13,9 @@ To get a local copy up and running follow these simple example steps.
 
 Run in your terminal `git clone git@github.com:Mhdez221993/comic_dance_club_back-end.git`
 
+## Helpful links
+- [A Devise-JWT Tutorial For Authenticating Users in Ruby on Rails](https://medium.com/ruby-daily/a-devise-jwt-tutorial-for-authenticating-users-in-ruby-on-rails-ca214898318e)
+
 
 ## Authors
 
