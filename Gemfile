@@ -7,6 +7,10 @@ gem 'rubocop', '>= 1.0', '< 2.0'
 
 gem 'rack-cors'
 
+gem 'devise'
+
+gem 'devise-jwt'
+
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails', branch: 'main'
 gem 'rails', '~> 6.1.5'
 # Use postgresql as the database for Active Record
