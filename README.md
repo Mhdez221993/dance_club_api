@@ -2,6 +2,11 @@
 
 The project you we are going to build for the Final Capstone Project is based on an app to book an appointment to try a new dance class.
 
+[kanban board](https://github.com/alexander16108/comic-dance-frontend-app/projects/1)
+-------------------------
+![kanban board before](https://user-images.githubusercontent.com/60612329/160345329-abd16358-38cc-403a-9b5c-47877230242a.png)
+![kanban board after]()
+
 ## Built With
 
 - Rails
@@ -15,6 +20,7 @@ Run in your terminal `git clone git@github.com:Mhdez221993/comic_dance_club_back
 
 ## Helpful links
 - [A Devise-JWT Tutorial For Authenticating Users in Ruby on Rails](https://medium.com/ruby-daily/a-devise-jwt-tutorial-for-authenticating-users-in-ruby-on-rails-ca214898318e)
+- [How to save a date into rails](https://stackoverflow.com/questions/38978999/how-to-save-a-date-into-rails-using-the-console)
 
 
 ## Authors

@@ -1,30 +1,30 @@
 class Api::ItemsController < ApplicationController
   before_action :set_item, only: %i[show update destroy]
 
-  # GET /items
+  # GET api/items
   def index
     @items = Item.all
 
     render json: @items
   end
 
-  # GET /items/1
+  # GET api/items/1
   def show
     render json: @item
   end
 
-  # POST /items
+  # POST api/items
   def create
-    @item = Item.new(item_params)
+    @item = current_user.items.new(item_params)
 
     if @item.save
-      render json: @item, status: :created, location: @item
+      render json: @item, status: :created
     else
       render json: @item.errors, status: :unprocessable_entity
     end
   end
 
-  # PATCH/PUT /items/1
+  # PATCH/PUT api/items/1
   def update
     if @item.update(item_params)
       render json: @item
@@ -33,7 +33,7 @@ class Api::ItemsController < ApplicationController
     end
   end
 
-  # DELETE /items/1
+  # DELETE api/items/1
   def destroy
     @item.destroy
   end
@@ -47,6 +47,6 @@ class Api::ItemsController < ApplicationController
 
   # Only allow a list of trusted parameters through.
   def item_params
-    params.require(:item).permit(:picture, :name, :description, :finance, :option, :total, :duration, :apr, :user_id)
+    params.require(:item).permit(:name, :description, :finance, :option, :total, :duration, :apr)
   end
 end

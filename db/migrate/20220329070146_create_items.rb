@@ -1,7 +1,7 @@
 class CreateItems < ActiveRecord::Migration[6.1]
   def change
     create_table :items do |t|
-      t.string :picture,      null: false, default: ""
+      t.string :picture,      null: false, default: "https://www.kindpng.com/picc/m/22-226207_ballroom-and-latin-dance-lessons-for-adults-la.png"
       t.string :name,         null: false, default: ""
       t.string :description,  null: false, default: ""
       t.integer :finance,      null: false, default: 0
