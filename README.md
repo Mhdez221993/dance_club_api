@@ -2,6 +2,11 @@
 
 The project you we are going to build for the Final Capstone Project is based on an app to book an appointment to try a new dance class.
 
+[kanban board](https://github.com/alexander16108/comic-dance-frontend-app/projects/1)
+-------------------------
+![kanban board before](https://user-images.githubusercontent.com/60612329/160345329-abd16358-38cc-403a-9b5c-47877230242a.png)
+![kanban board after]()
+
 ## Built With
 
 - Rails
