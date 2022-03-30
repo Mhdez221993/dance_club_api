@@ -1,7 +1,7 @@
 ---
 openapi: 3.0.1
 info:
-  title: API V1
+  title: COMIC DANCE API DOCS
   version: v1
 paths:
   "/api/items":
