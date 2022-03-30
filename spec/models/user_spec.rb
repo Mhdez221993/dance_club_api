@@ -1,17 +1,17 @@
-require "rails_helper"
+require 'rails_helper'
 
-RSpec.describe User, :type => :model do
+RSpec.describe User, type: :model do
   subject { described_class.new name: 'test', email: 'test@test.com', password: '123456' }
 
-  it "is valid with valid attributes" do
+  it 'is valid with valid attributes' do
     expect(subject).to be_valid
   end
 
-  it "is not valid without a title" do
+  it 'is not valid without a title' do
     expect(User.new).to_not be_valid
   end
 
-  it "Validate the length of the password" do
+  it 'Validate the length of the password' do
     should validate_length_of(:password).is_at_least(6).on(:create)
   end
 

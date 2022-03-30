@@ -13,9 +13,9 @@ gem 'rails', '~> 6.1.5'
 gem 'rubocop', '>= 1.0', '< 2.0'
 
 group :development, :test do
-  gem "rspec-rails"
-  gem 'shoulda-matchers'
   gem 'byebug', platforms: %i[mri mingw x64_mingw]
+  gem 'rspec-rails'
+  gem 'shoulda-matchers'
 end
 
 group :development do

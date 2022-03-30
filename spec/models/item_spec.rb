@@ -1,19 +1,19 @@
-require "rails_helper"
+require 'rails_helper'
 
-RSpec.describe Item, :type => :model do
+RSpec.describe Item, type: :model do
   let(:user) { User.create name: 'test', email: 'test@test.com', password: '123456' }
-  subject {
-    described_class.new name: "Dancing",
-      description: "Best dance",
-      finance: 129, option: 249, total: 9.299,
-      duration: 24, apr: 2.9, user_id: user.id
-  }
+  subject do
+    described_class.new name: 'Dancing',
+                        description: 'Best dance',
+                        finance: 129, option: 249, total: 9.299,
+                        duration: 24, apr: 2.9, user_id: user.id
+  end
 
-  it "is valid with valid attributes" do
+  it 'is valid with valid attributes' do
     expect(subject).to be_valid
   end
 
-  it "is not valid without a title" do
+  it 'is not valid without a title' do
     expect(Item.new).to_not be_valid
   end
 

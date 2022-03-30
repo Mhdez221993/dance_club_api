@@ -16,6 +16,6 @@ describe 'Users controller', type: :request do
 
     get '/api/items', headers: auth_headers
 
-    expect(response.body).to eq "[]"
+    expect(response.body).to eq '[]'
   end
 end
