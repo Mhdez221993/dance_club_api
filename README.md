@@ -7,6 +7,8 @@ The project you we are going to build for the Final Capstone Project is based on
 ![kanban board before](https://user-images.githubusercontent.com/60612329/160345329-abd16358-38cc-403a-9b5c-47877230242a.png)
 ![kanban board after]()
 
+## [Api-docs](http://localhost:3000/api-docs/index.html)
+
 ## Built With
 
 - Rails
@@ -29,6 +31,7 @@ $ rspec spec --format documentation
 - [How to save a date into rails](https://stackoverflow.com/questions/38978999/how-to-save-a-date-into-rails-using-the-console)
 - [How to Test Rails Models with RSpec](https://semaphoreci.com/community/tutorials/how-to-test-rails-models-with-rspec)
 - [Testing a Rails API with RSpec](https://blog.devgenius.io/testing-a-rails-api-with-rspec-82dedc9f15df)
+- [Adding Swagger Docs to a Rails 6 API Using Rswag](https://medium.com/@clarkjohnson_85334/adding-swagger-docs-to-a-rails-6-api-using-rswag-a3e8bc577986)
 
 
 ## Authors
