@@ -28,6 +28,7 @@ $ rspec spec --format documentation
 - [A Devise-JWT Tutorial For Authenticating Users in Ruby on Rails](https://medium.com/ruby-daily/a-devise-jwt-tutorial-for-authenticating-users-in-ruby-on-rails-ca214898318e)
 - [How to save a date into rails](https://stackoverflow.com/questions/38978999/how-to-save-a-date-into-rails-using-the-console)
 - [How to Test Rails Models with RSpec](https://semaphoreci.com/community/tutorials/how-to-test-rails-models-with-rspec)
+- [Testing a Rails API with RSpec](https://blog.devgenius.io/testing-a-rails-api-with-rspec-82dedc9f15df)
 
 
 ## Authors
