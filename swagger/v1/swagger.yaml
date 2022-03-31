@@ -83,7 +83,7 @@ paths:
         '200':
           description: successful
 servers:
-- url: http://{defaultHost}
+- url: https://{defaultHost}
   variables:
     defaultHost:
-      default: 127.0.0.1:3000
+      default: comic-dance-club.herokuapp.com
