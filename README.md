@@ -29,6 +29,7 @@ $ rspec spec --format documentation
 - [How to save a date into rails](https://stackoverflow.com/questions/38978999/how-to-save-a-date-into-rails-using-the-console)
 - [How to Test Rails Models with RSpec](https://semaphoreci.com/community/tutorials/how-to-test-rails-models-with-rspec)
 - [Testing a Rails API with RSpec](https://blog.devgenius.io/testing-a-rails-api-with-rspec-82dedc9f15df)
+- [ruby on rails: heroku: Missing `secret_key_base` for 'production' environment](https://stackoverflow.com/questions/38167835/ruby-on-rails-heroku-missing-secret-key-base-for-production-environment)
 
 
 ## Authors
