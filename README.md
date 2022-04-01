@@ -7,7 +7,8 @@ The project you we are going to build for the Final Capstone Project is based on
 ![kanban board before](https://user-images.githubusercontent.com/60612329/160345329-abd16358-38cc-403a-9b5c-47877230242a.png)
 ![kanban board after]()
 
-## [Api-docs](http://localhost:3000/api-docs/index.html)
+### [Api-docs](https://comic-dance-club.herokuapp.com/api-docs/index.html)
+### [Live demo](https://comic-dance-club.herokuapp.com)
 
 ## Built With
 
