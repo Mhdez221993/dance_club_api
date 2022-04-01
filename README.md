@@ -1,6 +1,6 @@
 # Comic dance club back-end apps
 
-The project you we are going to build for the Final Capstone Project is based on an app to book an appointment to try a new dance class.
+The project we are going to build for the Final Capstone Project is based on an app to book an appointment to try a new dance class.
 
 [kanban board](https://github.com/alexander16108/comic-dance-frontend-app/projects/1)
 -------------------------
