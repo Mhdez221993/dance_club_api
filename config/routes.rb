@@ -9,6 +9,6 @@ Rails.application.routes.draw do
 
   namespace :api do
     resources :reservations
-    resources :items
+    resources :items, path: '/dances'
   end
 end
