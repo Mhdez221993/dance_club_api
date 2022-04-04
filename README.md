@@ -34,6 +34,7 @@ $ rspec spec --format documentation
 - [Testing a Rails API with RSpec](https://blog.devgenius.io/testing-a-rails-api-with-rspec-82dedc9f15df)
 - [ruby on rails: heroku: Missing `secret_key_base` for 'production' environment](https://stackoverflow.com/questions/38167835/ruby-on-rails-heroku-missing-secret-key-base-for-production-environment)
 - [Adding Swagger Docs to a Rails 6 API Using Rswag](https://medium.com/@clarkjohnson_85334/adding-swagger-docs-to-a-rails-6-api-using-rswag-a3e8bc577986)
+- [Don't Forget to Expose Headers When Using Rack CORS](https://glaucocustodio.github.io/2016/01/20/dont-forget-to-expose-headers-when-using-rack-cors/)
 
 
 ## Authors
