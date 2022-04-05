@@ -35,6 +35,7 @@ $ rspec spec --format documentation
 - [ruby on rails: heroku: Missing `secret_key_base` for 'production' environment](https://stackoverflow.com/questions/38167835/ruby-on-rails-heroku-missing-secret-key-base-for-production-environment)
 - [Adding Swagger Docs to a Rails 6 API Using Rswag](https://medium.com/@clarkjohnson_85334/adding-swagger-docs-to-a-rails-6-api-using-rswag-a3e8bc577986)
 - [Don't Forget to Expose Headers When Using Rack CORS](https://glaucocustodio.github.io/2016/01/20/dont-forget-to-expose-headers-when-using-rack-cors/)
+- [Ruby on Rails - Join two tables add results to JSON](https://stackoverflow.com/questions/20433534/ruby-on-rails-join-two-tables-add-results-to-json)
 
 
 ## Authors
