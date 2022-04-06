@@ -1,4 +1,6 @@
 class Api::ItemsController < ApplicationController
+  before_action :authenticate_user!, except: [:index]
+  load_and_authorize_resource
   before_action :set_item, only: %i[show update destroy]
 
   # GET api/items
