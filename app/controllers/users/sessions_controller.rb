@@ -3,14 +3,14 @@ class Users::SessionsController < Devise::SessionsController
 
   private
 
-  def respond_with(_resource, _opts = {})
-    session_success && return if current_user
+  def respond_with(resource, _opts = {})
+    session_success(resource) && return if current_user
 
     session_failed
   end
 
-  def session_success
-    render json: { message: ['You are logged in.'], status: true }, status: :ok
+  def session_success(resource)
+    render json: { message: ['You are logged in.'], status: true, role: resource.role }, status: :ok
   end
 
   def session_failed
