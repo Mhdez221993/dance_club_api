@@ -64,6 +64,7 @@ Give a ⭐️ if you like this project!
 
 ## Acknowledgments
 
+
 - To [Murat Korkmaz](https://www.behance.net/muratk) for the provided design.
 - To my coding partner who helped me through all the work
 - To my Stand Up Team who kept my morale up!
