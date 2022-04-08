@@ -8,7 +8,7 @@ Rails.application.routes.draw do
   }
 
   namespace :api do
-    resources :reservations
-    resources :items, path: '/dances'
+    resources :reservations, only: [:index, :create]
+    resources :items, path: '/dances', only: [:index, :create, :show, :destroy]
   end
 end
