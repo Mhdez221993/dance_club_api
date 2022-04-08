@@ -9,7 +9,7 @@ The project we are going to build for the Final Capstone Project is based on an 
 
 
 ### [Api-docs](https://comic-dance-club.herokuapp.com/api-docs/index.html)
-### [Live demo](https://comic-dance-club.herokuapp.com)
+### [Live demo](https://comic-dance-hull.herokuapp.com)
 
 ## Built With
 
