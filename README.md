@@ -5,12 +5,13 @@ Thi API offers service to a react application that reservers and displays class 
 ![api](https://user-images.githubusercontent.com/67757001/165146174-f64f71ca-e6ef-4bb5-8c06-8e278e40d495.jpg)
 
 ### [Api-docs](https://comic-dance-club.herokuapp.com/api-docs/index.html)
-### [Live demo](https://comic-dance-hull.herokuapp.com)
 
 ## Built With
 
 - Rails
 - Rspec
+- JWT
+- Swagger
 
 ## Getting Started
 
