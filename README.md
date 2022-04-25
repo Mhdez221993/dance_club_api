@@ -2,12 +2,6 @@
 
 The project we are going to build for the Final Capstone Project is based on an app to book an appointment to try a new dance class.
 
-[kanban board](https://github.com/alexander16108/comic-dance-frontend-app/projects/1)
--------------------------
-![kanban board before](https://user-images.githubusercontent.com/60612329/160345329-abd16358-38cc-403a-9b5c-47877230242a.png)
-![final_kamban](https://user-images.githubusercontent.com/67757001/162413653-3e07eebe-f896-4c8c-af3c-df7ee46ae473.PNG)
-
-
 ### [Api-docs](https://comic-dance-club.herokuapp.com/api-docs/index.html)
 ### [Live demo](https://comic-dance-hull.herokuapp.com)
 
@@ -47,11 +41,6 @@ $ rspec spec --format documentation
 - Twitter: [@MoisesH42060050](https://twitter.com/MoisesH42060050)
 - LinkedIn: [Moises Hernandez Coronado](https://www.linkedin.com/in/moises-hernandez-9bbb17145/)
 
-👤 **Alexander Odufuye**
-
-- GitHub: [@alexander16108](https://github.com/alexander16108)
-- LinkedIn: [alexander](https://www.linkedin.com/in/codingrex/)
-
 ## Contributing
 
 Contributions, issues, and feature requests are welcome!
@@ -65,6 +54,5 @@ Give a ⭐️ if you like this project!
 ## Acknowledgments
 
 
-- To [Murat Korkmaz](https://www.behance.net/muratk) for the provided design.
 - To my coding partner who helped me through all the work
 - To my Stand Up Team who kept my morale up!
