@@ -1,6 +1,7 @@
 # Comic dance club back-end apps
 
 The project we are going to build for the Final Capstone Project is based on an app to book an appointment to try a new dance class.
+![api](https://user-images.githubusercontent.com/67757001/165146174-f64f71ca-e6ef-4bb5-8c06-8e278e40d495.jpg)
 
 ### [Api-docs](https://comic-dance-club.herokuapp.com/api-docs/index.html)
 ### [Live demo](https://comic-dance-hull.herokuapp.com)
