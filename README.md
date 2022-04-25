@@ -1,6 +1,6 @@
 # Dance club API
 
-Thi API offers service to a react application that reservers and displays class dances. Was built in Ruby on Rails, has twelve end-points to manage resources, and is tested with Rspec.
+This API offers service to a react application that reservers and displays class dances. Was built in Ruby on Rails, has twelve end-points to manage resources, tested with Rspec, and Swagger for documentation.
 
 ![api](https://user-images.githubusercontent.com/67757001/165146174-f64f71ca-e6ef-4bb5-8c06-8e278e40d495.jpg)
 
