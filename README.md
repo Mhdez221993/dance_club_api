@@ -22,8 +22,11 @@ Run in your terminal `git clone git@github.com:Mhdez221993/comic_dance_club_back
 
 ```bash
 bundle
+
 sudo service postgresql start
+
 rails db:migrate
+
 rails s
 ```
 
