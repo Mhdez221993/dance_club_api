@@ -24,7 +24,13 @@ module ComicDanceClubBackEnd
     # Initialize configuration defaults for originally generated Rails version.
     config.load_defaults 6.1
 
-    config.assets.precompile += %w( *.js *.css )
+    # config.asset_host.precompile += %w( *.js *.css )
+
+    # config.assets.enabled = true
+
+
+    require "sprockets/railtie"
+
 
 
     # Configuration for the application, engines, and railties goes here.
